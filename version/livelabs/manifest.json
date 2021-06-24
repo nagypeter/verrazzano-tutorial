@@ -19,11 +19,11 @@
             "filename": "../../tutorial/install.verrazzano.md"
         },
         {
-            "title": "Lab 3: Deploy *Bob’s Books* sample application",
+            "title": "Lab 3: Deploy Bob’s Books sample application",
             "filename": "../../tutorial/deploy.bobsbook.md"
         },
         {
-            "title": "Lab 4: Modify and redeploy Helidon based *Stock* application component",
+            "title": "Lab 4: Modify and redeploy Helidon based Stock application component",
             "filename": "../../tutorial/modify.helidonstock.md"
         }
     ]
