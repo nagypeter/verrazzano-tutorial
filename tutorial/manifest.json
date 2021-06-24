@@ -3,7 +3,7 @@
     "tutorials": [
         {
             "title": "Introduction",
-            "filename": "verrazzano.toc.md"
+            "filename": "../README.md"
         },
         {
             "title": "Prerequisites",
