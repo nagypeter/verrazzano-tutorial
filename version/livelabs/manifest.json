@@ -3,7 +3,7 @@
     "tutorials": [
         {
             "title": "Introduction",
-            "filename": "README.md"
+            "filename": "../../README.md"
         },
         {
             "title": "Prerequisites",
@@ -12,19 +12,19 @@
         },
         {
             "title": "Lab 1: Set up an Oracle Kubernetes Engine instance on the Oracle Cloud Infrastructure",
-            "filename": "tutorial/setup.oke.ocishell.md"
+            "filename": "../../tutorial/setup.oke.ocishell.md"
         },
         {
             "title": "Lab 2: Install Verrazzano",
-            "filename": "tutorial/install.verrazzano.md"
+            "filename": "../../tutorial/install.verrazzano.md"
         },
         {
             "title": "Lab 3: Deploy *Bob’s Books* sample application",
-            "filename": "tutorial/deploy.bobsbook.md"
+            "filename": "../../tutorial/deploy.bobsbook.md"
         },
         {
             "title": "Lab 4: Modify and redeploy Helidon based *Stock* application component",
-            "filename": "tutorial/modify.helidonstock.md"
+            "filename": "../../tutorial/modify.helidonstock.md"
         }
     ]
 }
